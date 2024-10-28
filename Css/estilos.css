@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    display: block;
+}
+
+body{
+    width: 100%;
+}
+
+h1{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav, .card{
+    background-color: rgb(241, 241, 241);
+}
+
+.lugares, .detalles{
+    margin: 20px 0px;
+}
+
+
+footer { 
+    width: 100%;
+}
+
+.info {
+    display: table-cell;
+    width: 900px;
+    padding: 20px 40px;
+}
+
+.titulo_footer1 {
+    font-size: 20px;
+}
+
+.titulo_footer2 {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.redes_sociales i{
+   font-size: 40px;
+   padding-left: 20px;
+   color: black;
+}
+
+.copy{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+}
